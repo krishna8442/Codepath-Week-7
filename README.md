@@ -10,4 +10,5 @@ Summary:
         
    Fixed in version: 4.3
 
-GIFWALKTHROUGH:![](DOM XSS Vulnerability.gif)
+GIFWALKTHROUGH:(![dom xss vulnerability](https://user-images.githubusercontent.com/17356647/46977771-a5302a80-d092-11e8-92fc-be91a98563c4.gif)
+)
