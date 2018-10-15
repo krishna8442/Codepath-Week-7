@@ -1,4 +1,5 @@
 ## Project 7 - WordPress Pentesting
+Time spent- 5hrs
 
 ### 1.(Required) WordPress <= 4.2 - DOM  Cross-Site Scripting (XSS)
 
@@ -71,7 +72,16 @@ Vulnerability types: XSS
  
  It wil enumerate the users and displays the username and passwords .
  
-Affected source code: 
+Affected source code:
+
+# RESOURCES
+
+WordPress Source Browser
+
+WordPress Developer Reference
+
+GIFs created with LiceCap.
+
 
    
    
