@@ -10,4 +10,4 @@ Summary:
         
    Fixed in version: 4.3
 
-GIFWALKTHROUGH:![](name-of-giphy.gif
+GIFWALKTHROUGH:![](DOM XSS Vulnerability.gif)
