@@ -38,7 +38,7 @@ Vulnerability types: XSS
    
    Click on Add a new post
    
-   Enter the string "<IMG SRC="#" ONERROR="alert('XSS')"/>" in the title and write some random stuff in body of the post.
+   Enter the string( IMG SRC="#" ONERROR="alert('XSS')) in HTML SYNTAX of Img tag in the title and write some random stuff in body of the post.
    
    Publish and view the post.
    
