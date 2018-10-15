@@ -1,6 +1,6 @@
 ## Project 7 - WordPress Pentesting
 
-1.(Required) WordPress <= 4.2 - DOM  Cross-Site Scripting (XSS)
+###1.(Required) WordPress <= 4.2 - DOM  Cross-Site Scripting (XSS)
 
 Summary: 
 
@@ -22,7 +22,7 @@ Steps to recreate:
   
  Affected source code:
   
-2.(Required) WordPress <= 4.2 -  Cross-Site Scripting (XSS)
+###2.(Required) WordPress <= 4.2 -  Cross-Site Scripting (XSS)
 
 Summary:
 
@@ -44,7 +44,7 @@ Vulnerability types: XSS
    
   Affected source code: 
    
- 3.(Required) WordPress <= 4.2 -  User Enumeration Vulnerability
+ ###3.(Required) WordPress <= 4.2 -  User Enumeration Vulnerability
  Summary:
 
   Vulnerability types: XSS
