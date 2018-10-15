@@ -44,7 +44,7 @@ Vulnerability types: XSS
    
   Affected source code: 
    
- 3.(Required) WordPress <= 4.2 -  User Validation and Enumeration Vulnerability
+ 3.(Required) WordPress <= 4.2 -  User Enumeration Vulnerability
  Summary:
 
   Vulnerability types: XSS
