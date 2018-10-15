@@ -30,5 +30,27 @@ Vulnerability types: XSS
         
    Fixed in version: 4.3
    
+   GIFWALKTHROUGH:![xss vulnerability](https://user-images.githubusercontent.com/17356647/46978126-a3b33200-d093-11e8-9b5b-e9a5c82c6ee8.gif)
+   
+   Steps to recreate: Comment on wordpress post with the following string:
+   
+   Click on Add a new post
+   
+   Enter the string "<IMG SRC="#" ONERROR="alert('XSS')"/>" in the title and write some random stuff in body of the post.
+   
+   Publish and view the post.
+   
+ 3.(Required) WordPress <= 4.2 -  User-Enumeration.
+ Summary:
+
+  Vulnerability types: XSS
+
+  Tested in version: = 4.2.21
+        
+   Fixed in version: 4.3
+   
    GIFWALKTHROUGH:
+   
+   
+
 
